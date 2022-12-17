@@ -1,13 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ZPzACnBYhSFGvtnMXbSEJknpP0if/+zvIhS0dItnjKDJRI9E5x455W5kW+MYPlf0bvJfVV3LB00RAauHuDyTYQ==",
+  "dgSpecHash": "n3Aqir4PipNkCtyWo19blk+qlgQhim5U0LNuLwm+lo83+tBwljEaIek0F3g4O4NmUt8OPqdI50DArGxSoJ5bQw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\abelderrain\\Documents\\MyFirstAzureWebApp\\MyFirstAzureWebApp.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\abelderrain\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.12\\microsoft.netcore.app.ref.6.0.12.nupkg.sha512",
-    "C:\\Users\\abelderrain\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.12\\microsoft.windowsdesktop.app.ref.6.0.12.nupkg.sha512",
-    "C:\\Users\\abelderrain\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.12\\microsoft.aspnetcore.app.ref.6.0.12.nupkg.sha512",
-    "C:\\Users\\abelderrain\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.12\\microsoft.netcore.app.host.win-x64.6.0.12.nupkg.sha512"
-  ],
+  "projectFilePath": "C:\\Users\\abelderrain\\Documents\\MyFirstAzureWebApp\\azureappservice\\MyFirstAzureWebApp.csproj",
+  "expectedPackageFiles": [],
   "logs": []
 }

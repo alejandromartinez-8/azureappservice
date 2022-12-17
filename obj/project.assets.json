@@ -1,11 +1,11 @@
 {
   "version": 3,
   "targets": {
-    "net6.0": {}
+    "net7.0": {}
   },
   "libraries": {},
   "projectFileDependencyGroups": {
-    "net6.0": []
+    "net7.0": []
   },
   "packageFolders": {
     "C:\\Users\\abelderrain\\.nuget\\packages\\": {}
@@ -13,18 +13,18 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\abelderrain\\Documents\\MyFirstAzureWebApp\\MyFirstAzureWebApp.csproj",
+      "projectUniqueName": "C:\\Users\\abelderrain\\Documents\\MyFirstAzureWebApp\\azureappservice\\MyFirstAzureWebApp.csproj",
       "projectName": "MyFirstAzureWebApp",
-      "projectPath": "C:\\Users\\abelderrain\\Documents\\MyFirstAzureWebApp\\MyFirstAzureWebApp.csproj",
+      "projectPath": "C:\\Users\\abelderrain\\Documents\\MyFirstAzureWebApp\\azureappservice\\MyFirstAzureWebApp.csproj",
       "packagesPath": "C:\\Users\\abelderrain\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\abelderrain\\Documents\\MyFirstAzureWebApp\\obj\\",
+      "outputPath": "C:\\Users\\abelderrain\\Documents\\MyFirstAzureWebApp\\azureappservice\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\abelderrain\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
-        "net6.0"
+        "net7.0"
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
@@ -32,8 +32,8 @@
         "https://www.myget.org/F/revenuewell/auth/4aad1c52-d7eb-49aa-9703-d63a8ca73537/api/v3/index.json": {}
       },
       "frameworks": {
-        "net6.0": {
-          "targetAlias": "net6.0",
+        "net7.0": {
+          "targetAlias": "net7.0",
           "projectReferences": {}
         }
       },
@@ -44,8 +44,8 @@
       }
     },
     "frameworks": {
-      "net6.0": {
-        "targetAlias": "net6.0",
+      "net7.0": {
+        "targetAlias": "net7.0",
         "imports": [
           "net461",
           "net462",
@@ -57,24 +57,6 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
-        "downloadDependencies": [
-          {
-            "name": "Microsoft.AspNetCore.App.Ref",
-            "version": "[6.0.12, 6.0.12]"
-          },
-          {
-            "name": "Microsoft.NETCore.App.Host.win-x64",
-            "version": "[6.0.12, 6.0.12]"
-          },
-          {
-            "name": "Microsoft.NETCore.App.Ref",
-            "version": "[6.0.12, 6.0.12]"
-          },
-          {
-            "name": "Microsoft.WindowsDesktop.App.Ref",
-            "version": "[6.0.12, 6.0.12]"
-          }
-        ],
         "frameworkReferences": {
           "Microsoft.AspNetCore.App": {
             "privateAssets": "none"
